@@ -5,10 +5,9 @@
 ## Instrucciones
 
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
-
- * Variables
- * Strings
- * Funciones (argumentos, `return`)
+ * Variables 
+ * Strings 
+ * Funciones (argumentos, `return`) 
  * Declaraciones `if`
  * Valores booleanos (`true`, `false`)
 
@@ -21,3 +20,4 @@
 4. Una vez que termines cada homework, súbela a tu repositorio `Prep.Course`, con los comandos que ya aprendiste a usar en la primera lección de git.
 
 ### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/02-JS-I/homework/homework.js)
+
